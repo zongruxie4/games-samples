@@ -9,7 +9,7 @@
   "dependencies": {},
   "devDependencies": {
     "glob": "~6.0.4",
-    "google-closure-compiler": "~20250716.0.0",
+    "google-closure-compiler": "~20250729.0.0",
     "google-closure-library": "~20160125.0.0",
     "gulp": "~5.0.1",
     "jasmine": "~5.8.0"
